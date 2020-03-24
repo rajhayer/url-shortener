@@ -35,7 +35,7 @@ request:{
 #### Get (all)
 ```yaml
 request:{ 
-    url: api/shorts/{shortname}
+    url: api/shorts
     method: GET
  }
 ```
